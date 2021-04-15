@@ -7,7 +7,13 @@ Human snRNA-seq of the lateral geniculate nucleus.
 ### Allen Brain Atlas MTG
 Human snRNA-seq of the middle temporal gyrus ([Hodge et al., 2019](https://doi.org/10.1038/s41586-019-1506-7)).
 
-### DroNc_Human_Hippocampus
+### Descartes Human Cerebellum
+Human scRNA-seq of the cerebellum ([Cao et al., 2020](https://doi.org/10.1126/science.aba7721)).
+
+### Descartes Human Cerebrum
+Human scRNA-seq of the cerebrum ([Cao et al., 2020](https://doi.org/10.1126/science.aba7721)).
+
+### DroNc Human Hippocampus
 Human snRNA-seq of the hippocampus ([Habib et al., 2017](https://doi.org/10.1038/nmeth.4407)).
 
 ### GSE101601
